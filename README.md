@@ -3,7 +3,6 @@
 ===========================
 <h4>
 I'm a 23-year-old developer and I started to have contact with programming when I was 15 at the federal institution Goiana Campus-Trindade. My main focus is front-end development, making applications that impact the lives of thousands of users.
-I am also a UniAlfa student, in the Perimetral Campus Software Engineering course.
 
 I am also a student of [UniAlfa](https://www.unialfa.com.br/), In the Software Engineering course [Campus Perimetral](https://www.unialfa.com.br/graduacao/cursos/engenharia-de-software).
 
