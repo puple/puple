@@ -1,15 +1,16 @@
 <h1>Oolá Terraqueos 🖖🏼 Me chamo Patrick</h1>
 
 ===========================
-<h4>Sou um desenvolvedor de 23 anos e comecei a ter contato com programação aos meu 15 anos na instituiçao Federal Goiana Campus-Trindade. Meu foco principal é o desenvolvimento front-end, fazendo aplicações que impactam a vida de milhares de usuários.
+<h4>
+I am a 23 year old developer and I started to have contact with programming when I was 15 years old at the Federal institution Goiana Campus-Trindade. My main focus is front-end development, making applications that impact the lives of thousands of users.
 
-Eu também sou um estudante da [UniAlfa](https://www.unialfa.com.br/), No curso de Engenharia de Software [Campus Perimetral](https://www.unialfa.com.br/graduacao/cursos/engenharia-de-software).
+I am also a student of [UniAlfa](https://www.unialfa.com.br/), In the Software Engineering course [Campus Perimetral](https://www.unialfa.com.br/graduacao/cursos/engenharia-de-software).
 
-Procuro oportunidades na área de programação para alimentar minha grade de conhecimento nessa areá que cresce cada dia mais
+I'm looking for opportunities in the programming area to feed my knowledge grid in this area that grows every day.
 
-*  📍  Atualmente estou sediado em Trindade-Go, Brasil
-* 📩 Você pode entrar em contato comigo em [patrickfer008@gmail.com](mailto:patrickfer008@gmail.com)
-* ⏳  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
+*  📍  I am currently based in Trindade-Go, Brasil
+* 📩 You can contact me at [patrickfer008@gmail.com](mailto:patrickfer008@gmail.com)
+* ⏳  I am open to collaborating on projects that have a high impact on people's lives.
 
 </h4>
 <br>
