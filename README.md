@@ -1,7 +1,7 @@
 <h1>Oolá Terraqueos 🖖🏼 Me chamo Patrick</h1>
 
 ===========================
-<h4>Sou um desenvolvedor de 23 anos e comeCei a ter contato com programação aos meu 15 anos na instituiçao Federal Goiana Campus-Trindade. Meu foco principal é o desenvolvimento front-end, fazendo aplicações que impactam a vida de milhares de usuários.
+<h4>Sou um desenvolvedor de 23 anos e comecei a ter contato com programação aos meu 15 anos na instituiçao Federal Goiana Campus-Trindade. Meu foco principal é o desenvolvimento front-end, fazendo aplicações que impactam a vida de milhares de usuários.
 
 Eu também sou um estudante da [UniAlfa](https://www.unialfa.com.br/), No curso de Engenharia de Software [Campus Perimetral](https://www.unialfa.com.br/graduacao/cursos/engenharia-de-software).
 
